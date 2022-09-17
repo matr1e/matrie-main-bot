@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-<a href="http://matr1e.gq/community"><img width="250" src="https://img.shields.io/badge/Lesnar Community%20-132287.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/sVQqB4d5"><img width="250" src="https://img.shields.io/badge/Serendia Squad%20-132287.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
